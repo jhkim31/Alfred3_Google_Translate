@@ -3,11 +3,11 @@
 ## 사용법
 
 ### English => Korean
-> en2ko
+##### en2ko
 ![cap1](./screenshot/cap1.png)
 
 ### Korean => English
-> ko2en
+##### ko2en
 ![cap2](./screenshot/cap2.png)
 
 ## function key
